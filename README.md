@@ -39,40 +39,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/crossgg">
-        <img
-          src="https://github-readme-stats-crossgg.vercel.app/api?username=crossgg&show_icons=true&theme=jolly&locale=cn&count_private=true&hide_border=true&rank_icon=default&include_all_commits=true"
-          alt="crossgg GitHub stats"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/crossgg">
-        <img
-          src="https://github-readme-stats-crossgg.vercel.app/api/top-langs/?username=crossgg&theme=jolly&locale=cn&hide_border=true&layout=compact&langs_count=8"
-          alt="Top Langs"
-        />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/crossgg">
-        <img
-          src="https://github-readme-streak-stats-crossgg.vercel.app/?user=crossgg&theme=jolly&locale=zh_Hans&hide_border=true&hide_longest_streak=true&card_width=300&card_height=190"
-          alt="GitHub Streak"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
