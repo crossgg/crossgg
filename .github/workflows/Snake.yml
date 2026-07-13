@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: vay1314
+          github_user_name: crossgg
           github_token: ${{ secrets.GH_PAT || github.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
